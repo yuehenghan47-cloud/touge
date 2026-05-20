@@ -1,0 +1,999 @@
+73 7b 7f 6f 67 63 63 63
+6*0 1c 36 6*63 36 1c 6*0 7e
+33 33 33 3e 4*30 78 6*0 3e
+6*63 6b 6f 3e 6 7 4*0 7e
+33 33 33 3e 36 36 33 33
+73 6*0 3e 63 63 30 1c 6
+3 63 63 3e 6*0 ff db 99
+6*18 3c 6*0 9*63 3e 6*0 7*63 36
+1c 8 6*0 5*63 6b 6b 7f 36
+36 6*0 c3 c3 66 3c 18 18
+3c 66 c3 c3 6*0 c3 c3 c3
+66 3c 4*18 3c 6*0 7f 63 43
+6 c 18 30 61 63 7f 6*0
+3c 8*30 3c 6*0 80 c0 e0 70
+38 1c e 7 3 1 6*0 3c
+8*c 3c 4*0 8 1c 36 63 24*0
+ff 0 0 0 18 18 c 18*0
+3c 46 6 3e 66 66 3b 6*0
+70 30 30 3c 36 4*33 6e 9*0
+3e 63 60 60 60 63 3e 6*0
+e 6 6 1e 36 4*66 3b 9*0
+3e 63 63 7e 60 63 3e 6*0
+1c 36 32 30 7c 4*30 78 9*0
+3b 4*66 3e 6 66 3c 4*0 70
+30 30 36 3b 4*33 73 6*0 c
+c 0 1c 5*c 1e 6*0 6 6
+0 e 5*6 66 66 3c 4*0 70
+30 30 33 33 36 3c 36 33
+73 6*0 1c 8*c 1e 9*0 6e 7f
+5*6b 9*0 6e 6*33 9*0 3e 5*63 3e
+9*0 6e 4*33 3e 30 30 78 7*0
+3b 4*66 3e 6 6 f 7*0 6e
+3b 33 30 30 30 78 9*0 3e
+63 38 e 3 63 3e 6*0 8
+18 18 7e 4*18 1b e 9*0 6*66
+3b 9*0 63 63 36 36 1c 1c
+8 9*0 63 63 63 6b 6b 7f
+36 9*0 63 36 1c 1c 1c 36
+63 9*0 5*63 3f 3 6 3c 7*0
+7f 66 c 18 30 63 7f 6*0
+e 18 18 18 70 4*18 e 6*0
+5*18 0 5*18 5*0 70 18 18 18
+e 4*18 70 6*0 3b 6e 13*0 70
+d8 d8 70
+</a>
+      <a name="Select" val="high"/>
+    </comp>
+    <comp lib="0" loc="(480,200)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="label" val="CodeErr"/>
+      <a name="labelloc" val="west"/>
+    </comp>
+    <comp lib="0" loc="(330,170)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row13"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="0" loc="(310,170)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row13"/>
+      <a name="labelloc" val="west"/>
+    </comp>
+    <comp lib="0" loc="(780,40)" name="Tunnel">
+      <a name="width" val="8"/>
+      <a name="label" val="row1"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="5" loc="(1550,1030)" name="ROM">
+      <a name="addrWidth" val="11"/>
+      <a name="contents">addr/data: 11 8
+18*0 18 3c 3c 3c 18 18 18
+0 18 18 5*0 63 63 63 22
+14*0 36 36 7f 36 36 36 7f
+36 36 4*0 c c 3e 63 61
+60 3e 3 3 43 63 3e c
+c 7*0 61 63 6 c 18 33
+63 7*0 1c 36 36 1c 3b 6e
+66 66 3b 5*0 30 30 30 60
+13*0 c 18 18 4*30 18 18 c
+6*0 18 c c 4*6 c c 18
+8*0 42 66 3c ff 3c 66 42
+9*0 18 18 18 ff 18 18 18
+15*0 18 18 18 30 9*0 ff 18*0
+18 18 6*0 1 3 7 e 1c
+38 70 e0 c0 80 6*0 3e 63
+63 63 6b 6b 63 63 63 3e
+6*0 c 1c 3c 6*c 3f 6*0 3e
+63 3 6 c 18 30 61 63
+7f 6*0 3e 63 3 3 1e 3
+3 3 63 3e 6*0 6 e 1e
+36 66 66 7f 6 6 f 6*0
+7f 60 60 60 7e 3 3 63
+73 3e 6*0 1c 30 60 60 7e
+4*63 3e 6*0 7f 63 3 6 6
+c c 18 18 18 6*0 3e 63
+63 63 3e 4*63 3e 6*0 3e 4*63
+3f 3 3 6 3c 9*0 18 18
+0 0 0 18 18 9*0 18 18
+0 0 0 18 18 18 30 5*0
+6 c 18 30 60 30 18 c
+6 10*0 7e 0 0 7e 9*0 60
+30 18 c 6 c 18 30 60
+6*0 3e 63 63 6 c c c
+0 c c 6*0 3e 63 63 6f
+6b 6b 6e 60 60 3e 6*0 8
+1c 36 63 63 63 7f 63 63
+63 6*0 7e 33 33 33 3e 4*33
+7e 6*0 1e 33 61 4*60 61 33
+1e 6*0 7c 36 6*33 36 7c 6*0
+7f 33 31 34 3c 34 30 31
+33 7f 6*0 7f 33 31 34 3c
+34 30 30 30 78 6*0 1e 33
+61 60 60 6f 63 63 37 1d
+6*0 4*63 7f 5*63 6*0 3c 8*18 3c
+6*0 f 6*6 66 66 3c 6*0 73
+33 36 36 3c 36 36 33 33
+73 6*0 78 6*30 31 33 7f 6*0
+63 77 7f 6b 6*63 6*0 63 63
+73 7b 7f 6f 67 63 63 63
+6*0 1c 36 6*63 36 1c 6*0 7e
+33 33 33 3e 4*30 78 6*0 3e
+6*63 6b 6f 3e 6 7 4*0 7e
+33 33 33 3e 36 36 33 33
+73 6*0 3e 63 63 30 1c 6
+3 63 63 3e 6*0 ff db 99
+6*18 3c 6*0 9*63 3e 6*0 7*63 36
+1c 8 6*0 5*63 6b 6b 7f 36
+36 6*0 c3 c3 66 3c 18 18
+3c 66 c3 c3 6*0 c3 c3 c3
+66 3c 4*18 3c 6*0 7f 63 43
+6 c 18 30 61 63 7f 6*0
+3c 8*30 3c 6*0 80 c0 e0 70
+38 1c e 7 3 1 6*0 3c
+8*c 3c 4*0 8 1c 36 63 24*0
+ff 0 0 0 18 18 c 18*0
+3c 46 6 3e 66 66 3b 6*0
+70 30 30 3c 36 4*33 6e 9*0
+3e 63 60 60 60 63 3e 6*0
+e 6 6 1e 36 4*66 3b 9*0
+3e 63 63 7e 60 63 3e 6*0
+1c 36 32 30 7c 4*30 78 9*0
+3b 4*66 3e 6 66 3c 4*0 70
+30 30 36 3b 4*33 73 6*0 c
+c 0 1c 5*c 1e 6*0 6 6
+0 e 5*6 66 66 3c 4*0 70
+30 30 33 33 36 3c 36 33
+73 6*0 1c 8*c 1e 9*0 6e 7f
+5*6b 9*0 6e 6*33 9*0 3e 5*63 3e
+9*0 6e 4*33 3e 30 30 78 7*0
+3b 4*66 3e 6 6 f 7*0 6e
+3b 33 30 30 30 78 9*0 3e
+63 38 e 3 63 3e 6*0 8
+18 18 7e 4*18 1b e 9*0 6*66
+3b 9*0 63 63 36 36 1c 1c
+8 9*0 63 63 63 6b 6b 7f
+36 9*0 63 36 1c 1c 1c 36
+63 9*0 5*63 3f 3 6 3c 7*0
+7f 66 c 18 30 63 7f 6*0
+e 18 18 18 70 4*18 e 6*0
+5*18 0 5*18 5*0 70 18 18 18
+e 4*18 70 6*0 3b 6e 13*0 70
+d8 d8 70
+</a>
+      <a name="Select" val="high"/>
+    </comp>
+    <comp lib="5" loc="(670,350)" name="ROM">
+      <a name="addrWidth" val="11"/>
+      <a name="contents">addr/data: 11 8
+18*0 18 3c 3c 3c 18 18 18
+0 18 18 5*0 63 63 63 22
+14*0 36 36 7f 36 36 36 7f
+36 36 4*0 c c 3e 63 61
+60 3e 3 3 43 63 3e c
+c 7*0 61 63 6 c 18 33
+63 7*0 1c 36 36 1c 3b 6e
+66 66 3b 5*0 30 30 30 60
+13*0 c 18 18 4*30 18 18 c
+6*0 18 c c 4*6 c c 18
+8*0 42 66 3c ff 3c 66 42
+9*0 18 18 18 ff 18 18 18
+15*0 18 18 18 30 9*0 ff 18*0
+18 18 6*0 1 3 7 e 1c
+38 70 e0 c0 80 6*0 3e 63
+63 63 6b 6b 63 63 63 3e
+6*0 c 1c 3c 6*c 3f 6*0 3e
+63 3 6 c 18 30 61 63
+7f 6*0 3e 63 3 3 1e 3
+3 3 63 3e 6*0 6 e 1e
+36 66 66 7f 6 6 f 6*0
+7f 60 60 60 7e 3 3 63
+73 3e 6*0 1c 30 60 60 7e
+4*63 3e 6*0 7f 63 3 6 6
+c c 18 18 18 6*0 3e 63
+63 63 3e 4*63 3e 6*0 3e 4*63
+3f 3 3 6 3c 9*0 18 18
+0 0 0 18 18 9*0 18 18
+0 0 0 18 18 18 30 5*0
+6 c 18 30 60 30 18 c
+6 10*0 7e 0 0 7e 9*0 60
+30 18 c 6 c 18 30 60
+6*0 3e 63 63 6 c c c
+0 c c 6*0 3e 63 63 6f
+6b 6b 6e 60 60 3e 6*0 8
+1c 36 63 63 63 7f 63 63
+63 6*0 7e 33 33 33 3e 4*33
+7e 6*0 1e 33 61 4*60 61 33
+1e 6*0 7c 36 6*33 36 7c 6*0
+7f 33 31 34 3c 34 30 31
+33 7f 6*0 7f 33 31 34 3c
+34 30 30 30 78 6*0 1e 33
+61 60 60 6f 63 63 37 1d
+6*0 4*63 7f 5*63 6*0 3c 8*18 3c
+6*0 f 6*6 66 66 3c 6*0 73
+33 36 36 3c 36 36 33 33
+73 6*0 78 6*30 31 33 7f 6*0
+63 77 7f 6b 6*63 6*0 63 63
+73 7b 7f 6f 67 63 63 63
+6*0 1c 36 6*63 36 1c 6*0 7e
+33 33 33 3e 4*30 78 6*0 3e
+6*63 6b 6f 3e 6 7 4*0 7e
+33 33 33 3e 36 36 33 33
+73 6*0 3e 63 63 30 1c 6
+3 63 63 3e 6*0 ff db 99
+6*18 3c 6*0 9*63 3e 6*0 7*63 36
+1c 8 6*0 5*63 6b 6b 7f 36
+36 6*0 c3 c3 66 3c 18 18
+3c 66 c3 c3 6*0 c3 c3 c3
+66 3c 4*18 3c 6*0 7f 63 43
+6 c 18 30 61 63 7f 6*0
+3c 8*30 3c 6*0 80 c0 e0 70
+38 1c e 7 3 1 6*0 3c
+8*c 3c 4*0 8 1c 36 63 24*0
+ff 0 0 0 18 18 c 18*0
+3c 46 6 3e 66 66 3b 6*0
+70 30 30 3c 36 4*33 6e 9*0
+3e 63 60 60 60 63 3e 6*0
+e 6 6 1e 36 4*66 3b 9*0
+3e 63 63 7e 60 63 3e 6*0
+1c 36 32 30 7c 4*30 78 9*0
+3b 4*66 3e 6 66 3c 4*0 70
+30 30 36 3b 4*33 73 6*0 c
+c 0 1c 5*c 1e 6*0 6 6
+0 e 5*6 66 66 3c 4*0 70
+30 30 33 33 36 3c 36 33
+73 6*0 1c 8*c 1e 9*0 6e 7f
+5*6b 9*0 6e 6*33 9*0 3e 5*63 3e
+9*0 6e 4*33 3e 30 30 78 7*0
+3b 4*66 3e 6 6 f 7*0 6e
+3b 33 30 30 30 78 9*0 3e
+63 38 e 3 63 3e 6*0 8
+18 18 7e 4*18 1b e 9*0 6*66
+3b 9*0 63 63 36 36 1c 1c
+8 9*0 63 63 63 6b 6b 7f
+36 9*0 63 36 1c 1c 1c 36
+63 9*0 5*63 3f 3 6 3c 7*0
+7f 66 c 18 30 63 7f 6*0
+e 18 18 18 70 4*18 e 6*0
+5*18 0 5*18 5*0 70 18 18 18
+e 4*18 70 6*0 3b 6e 13*0 70
+d8 d8 70
+</a>
+      <a name="Select" val="high"/>
+    </comp>
+    <comp lib="0" loc="(670,50)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row3"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="0" loc="(780,80)" name="Tunnel">
+      <a name="width" val="8"/>
+      <a name="label" val="row5"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="0" loc="(680,80)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row6"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="4" loc="(330,1200)" name="Adder">
+      <a name="width" val="11"/>
+    </comp>
+    <comp lib="0" loc="(330,80)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row4"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="5" loc="(1550,1150)" name="ROM">
+      <a name="addrWidth" val="11"/>
+      <a name="contents">addr/data: 11 8
+18*0 18 3c 3c 3c 18 18 18
+0 18 18 5*0 63 63 63 22
+14*0 36 36 7f 36 36 36 7f
+36 36 4*0 c c 3e 63 61
+60 3e 3 3 43 63 3e c
+c 7*0 61 63 6 c 18 33
+63 7*0 1c 36 36 1c 3b 6e
+66 66 3b 5*0 30 30 30 60
+13*0 c 18 18 4*30 18 18 c
+6*0 18 c c 4*6 c c 18
+8*0 42 66 3c ff 3c 66 42
+9*0 18 18 18 ff 18 18 18
+15*0 18 18 18 30 9*0 ff 18*0
+18 18 6*0 1 3 7 e 1c
+38 70 e0 c0 80 6*0 3e 63
+63 63 6b 6b 63 63 63 3e
+6*0 c 1c 3c 6*c 3f 6*0 3e
+63 3 6 c 18 30 61 63
+7f 6*0 3e 63 3 3 1e 3
+3 3 63 3e 6*0 6 e 1e
+36 66 66 7f 6 6 f 6*0
+7f 60 60 60 7e 3 3 63
+73 3e 6*0 1c 30 60 60 7e
+4*63 3e 6*0 7f 63 3 6 6
+c c 18 18 18 6*0 3e 63
+63 63 3e 4*63 3e 6*0 3e 4*63
+3f 3 3 6 3c 9*0 18 18
+0 0 0 18 18 9*0 18 18
+0 0 0 18 18 18 30 5*0
+6 c 18 30 60 30 18 c
+6 10*0 7e 0 0 7e 9*0 60
+30 18 c 6 c 18 30 60
+6*0 3e 63 63 6 c c c
+0 c c 6*0 3e 63 63 6f
+6b 6b 6e 60 60 3e 6*0 8
+1c 36 63 63 63 7f 63 63
+63 6*0 7e 33 33 33 3e 4*33
+7e 6*0 1e 33 61 4*60 61 33
+1e 6*0 7c 36 6*33 36 7c 6*0
+7f 33 31 34 3c 34 30 31
+33 7f 6*0 7f 33 31 34 3c
+34 30 30 30 78 6*0 1e 33
+61 60 60 6f 63 63 37 1d
+6*0 4*63 7f 5*63 6*0 3c 8*18 3c
+6*0 f 6*6 66 66 3c 6*0 73
+33 36 36 3c 36 36 33 33
+73 6*0 78 6*30 31 33 7f 6*0
+63 77 7f 6b 6*63 6*0 63 63
+73 7b 7f 6f 67 63 63 63
+6*0 1c 36 6*63 36 1c 6*0 7e
+33 33 33 3e 4*30 78 6*0 3e
+6*63 6b 6f 3e 6 7 4*0 7e
+33 33 33 3e 36 36 33 33
+73 6*0 3e 63 63 30 1c 6
+3 63 63 3e 6*0 ff db 99
+6*18 3c 6*0 9*63 3e 6*0 7*63 36
+1c 8 6*0 5*63 6b 6b 7f 36
+36 6*0 c3 c3 66 3c 18 18
+3c 66 c3 c3 6*0 c3 c3 c3
+66 3c 4*18 3c 6*0 7f 63 43
+6 c 18 30 61 63 7f 6*0
+3c 8*30 3c 6*0 80 c0 e0 70
+38 1c e 7 3 1 6*0 3c
+8*c 3c 4*0 8 1c 36 63 24*0
+ff 0 0 0 18 18 c 18*0
+3c 46 6 3e 66 66 3b 6*0
+70 30 30 3c 36 4*33 6e 9*0
+3e 63 60 60 60 63 3e 6*0
+e 6 6 1e 36 4*66 3b 9*0
+3e 63 63 7e 60 63 3e 6*0
+1c 36 32 30 7c 4*30 78 9*0
+3b 4*66 3e 6 66 3c 4*0 70
+30 30 36 3b 4*33 73 6*0 c
+c 0 1c 5*c 1e 6*0 6 6
+0 e 5*6 66 66 3c 4*0 70
+30 30 33 33 36 3c 36 33
+73 6*0 1c 8*c 1e 9*0 6e 7f
+5*6b 9*0 6e 6*33 9*0 3e 5*63 3e
+9*0 6e 4*33 3e 30 30 78 7*0
+3b 4*66 3e 6 6 f 7*0 6e
+3b 33 30 30 30 78 9*0 3e
+63 38 e 3 63 3e 6*0 8
+18 18 7e 4*18 1b e 9*0 6*66
+3b 9*0 63 63 36 36 1c 1c
+8 9*0 63 63 63 6b 6b 7f
+36 9*0 63 36 1c 1c 1c 36
+63 9*0 5*63 3f 3 6 3c 7*0
+7f 66 c 18 30 63 7f 6*0
+e 18 18 18 70 4*18 e 6*0
+5*18 0 5*18 5*0 70 18 18 18
+e 4*18 70 6*0 3b 6e 13*0 70
+d8 d8 70
+</a>
+      <a name="Select" val="high"/>
+    </comp>
+    <comp lib="4" loc="(210,350)" name="Subtractor">
+      <a name="width" val="7"/>
+    </comp>
+    <comp lib="4" loc="(330,700)" name="Adder">
+      <a name="width" val="11"/>
+    </comp>
+    <comp lib="5" loc="(670,560)" name="ROM">
+      <a name="addrWidth" val="11"/>
+      <a name="contents">addr/data: 11 8
+18*0 18 3c 3c 3c 18 18 18
+0 18 18 5*0 63 63 63 22
+14*0 36 36 7f 36 36 36 7f
+36 36 4*0 c c 3e 63 61
+60 3e 3 3 43 63 3e c
+c 7*0 61 63 6 c 18 33
+63 7*0 1c 36 36 1c 3b 6e
+66 66 3b 5*0 30 30 30 60
+13*0 c 18 18 4*30 18 18 c
+6*0 18 c c 4*6 c c 18
+8*0 42 66 3c ff 3c 66 42
+9*0 18 18 18 ff 18 18 18
+15*0 18 18 18 30 9*0 ff 18*0
+18 18 6*0 1 3 7 e 1c
+38 70 e0 c0 80 6*0 3e 63
+63 63 6b 6b 63 63 63 3e
+6*0 c 1c 3c 6*c 3f 6*0 3e
+63 3 6 c 18 30 61 63
+7f 6*0 3e 63 3 3 1e 3
+3 3 63 3e 6*0 6 e 1e
+36 66 66 7f 6 6 f 6*0
+7f 60 60 60 7e 3 3 63
+73 3e 6*0 1c 30 60 60 7e
+4*63 3e 6*0 7f 63 3 6 6
+c c 18 18 18 6*0 3e 63
+63 63 3e 4*63 3e 6*0 3e 4*63
+3f 3 3 6 3c 9*0 18 18
+0 0 0 18 18 9*0 18 18
+0 0 0 18 18 18 30 5*0
+6 c 18 30 60 30 18 c
+6 10*0 7e 0 0 7e 9*0 60
+30 18 c 6 c 18 30 60
+6*0 3e 63 63 6 c c c
+0 c c 6*0 3e 63 63 6f
+6b 6b 6e 60 60 3e 6*0 8
+1c 36 63 63 63 7f 63 63
+63 6*0 7e 33 33 33 3e 4*33
+7e 6*0 1e 33 61 4*60 61 33
+1e 6*0 7c 36 6*33 36 7c 6*0
+7f 33 31 34 3c 34 30 31
+33 7f 6*0 7f 33 31 34 3c
+34 30 30 30 78 6*0 1e 33
+61 60 60 6f 63 63 37 1d
+6*0 4*63 7f 5*63 6*0 3c 8*18 3c
+6*0 f 6*6 66 66 3c 6*0 73
+33 36 36 3c 36 36 33 33
+73 6*0 78 6*30 31 33 7f 6*0
+63 77 7f 6b 6*63 6*0 63 63
+73 7b 7f 6f 67 63 63 63
+6*0 1c 36 6*63 36 1c 6*0 7e
+33 33 33 3e 4*30 78 6*0 3e
+6*63 6b 6f 3e 6 7 4*0 7e
+33 33 33 3e 36 36 33 33
+73 6*0 3e 63 63 30 1c 6
+3 63 63 3e 6*0 ff db 99
+6*18 3c 6*0 9*63 3e 6*0 7*63 36
+1c 8 6*0 5*63 6b 6b 7f 36
+36 6*0 c3 c3 66 3c 18 18
+3c 66 c3 c3 6*0 c3 c3 c3
+66 3c 4*18 3c 6*0 7f 63 43
+6 c 18 30 61 63 7f 6*0
+3c 8*30 3c 6*0 80 c0 e0 70
+38 1c e 7 3 1 6*0 3c
+8*c 3c 4*0 8 1c 36 63 24*0
+ff 0 0 0 18 18 c 18*0
+3c 46 6 3e 66 66 3b 6*0
+70 30 30 3c 36 4*33 6e 9*0
+3e 63 60 60 60 63 3e 6*0
+e 6 6 1e 36 4*66 3b 9*0
+3e 63 63 7e 60 63 3e 6*0
+1c 36 32 30 7c 4*30 78 9*0
+3b 4*66 3e 6 66 3c 4*0 70
+30 30 36 3b 4*33 73 6*0 c
+c 0 1c 5*c 1e 6*0 6 6
+0 e 5*6 66 66 3c 4*0 70
+30 30 33 33 36 3c 36 33
+73 6*0 1c 8*c 1e 9*0 6e 7f
+5*6b 9*0 6e 6*33 9*0 3e 5*63 3e
+9*0 6e 4*33 3e 30 30 78 7*0
+3b 4*66 3e 6 6 f 7*0 6e
+3b 33 30 30 30 78 9*0 3e
+63 38 e 3 63 3e 6*0 8
+18 18 7e 4*18 1b e 9*0 6*66
+3b 9*0 63 63 36 36 1c 1c
+8 9*0 63 63 63 6b 6b 7f
+36 9*0 63 36 1c 1c 1c 36
+63 9*0 5*63 3f 3 6 3c 7*0
+7f 66 c 18 30 63 7f 6*0
+e 18 18 18 70 4*18 e 6*0
+5*18 0 5*18 5*0 70 18 18 18
+e 4*18 70 6*0 3b 6e 13*0 70
+d8 d8 70
+</a>
+      <a name="Select" val="high"/>
+    </comp>
+    <comp lib="0" loc="(1660,560)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row11"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(1650,1150)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row16"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(810,170)" name="Tunnel">
+      <a name="width" val="8"/>
+      <a name="label" val="row14"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="4" loc="(330,590)" name="Adder">
+      <a name="width" val="11"/>
+    </comp>
+    <comp lib="0" loc="(780,160)" name="Tunnel">
+      <a name="width" val="8"/>
+      <a name="label" val="row13"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="0" loc="(1660,450)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row10"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(1640,800)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row13"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(880,910)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row6"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(660,140)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row12"/>
+      <a name="labelloc" val="west"/>
+    </comp>
+    <comp lib="0" loc="(490,80)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row5"/>
+      <a name="labelloc" val="west"/>
+    </comp>
+    <comp lib="5" loc="(670,680)" name="ROM">
+      <a name="addrWidth" val="11"/>
+      <a name="contents">addr/data: 11 8
+18*0 18 3c 3c 3c 18 18 18
+0 18 18 5*0 63 63 63 22
+14*0 36 36 7f 36 36 36 7f
+36 36 4*0 c c 3e 63 61
+60 3e 3 3 43 63 3e c
+c 7*0 61 63 6 c 18 33
+63 7*0 1c 36 36 1c 3b 6e
+66 66 3b 5*0 30 30 30 60
+13*0 c 18 18 4*30 18 18 c
+6*0 18 c c 4*6 c c 18
+8*0 42 66 3c ff 3c 66 42
+9*0 18 18 18 ff 18 18 18
+15*0 18 18 18 30 9*0 ff 18*0
+18 18 6*0 1 3 7 e 1c
+38 70 e0 c0 80 6*0 3e 63
+63 63 6b 6b 63 63 63 3e
+6*0 c 1c 3c 6*c 3f 6*0 3e
+63 3 6 c 18 30 61 63
+7f 6*0 3e 63 3 3 1e 3
+3 3 63 3e 6*0 6 e 1e
+36 66 66 7f 6 6 f 6*0
+7f 60 60 60 7e 3 3 63
+73 3e 6*0 1c 30 60 60 7e
+4*63 3e 6*0 7f 63 3 6 6
+c c 18 18 18 6*0 3e 63
+63 63 3e 4*63 3e 6*0 3e 4*63
+3f 3 3 6 3c 9*0 18 18
+0 0 0 18 18 9*0 18 18
+0 0 0 18 18 18 30 5*0
+6 c 18 30 60 30 18 c
+6 10*0 7e 0 0 7e 9*0 60
+30 18 c 6 c 18 30 60
+6*0 3e 63 63 6 c c c
+0 c c 6*0 3e 63 63 6f
+6b 6b 6e 60 60 3e 6*0 8
+1c 36 63 63 63 7f 63 63
+63 6*0 7e 33 33 33 3e 4*33
+7e 6*0 1e 33 61 4*60 61 33
+1e 6*0 7c 36 6*33 36 7c 6*0
+7f 33 31 34 3c 34 30 31
+33 7f 6*0 7f 33 31 34 3c
+34 30 30 30 78 6*0 1e 33
+61 60 60 6f 63 63 37 1d
+6*0 4*63 7f 5*63 6*0 3c 8*18 3c
+6*0 f 6*6 66 66 3c 6*0 73
+33 36 36 3c 36 36 33 33
+73 6*0 78 6*30 31 33 7f 6*0
+63 77 7f 6b 6*63 6*0 63 63
+73 7b 7f 6f 67 63 63 63
+6*0 1c 36 6*63 36 1c 6*0 7e
+33 33 33 3e 4*30 78 6*0 3e
+6*63 6b 6f 3e 6 7 4*0 7e
+33 33 33 3e 36 36 33 33
+73 6*0 3e 63 63 30 1c 6
+3 63 63 3e 6*0 ff db 99
+6*18 3c 6*0 9*63 3e 6*0 7*63 36
+1c 8 6*0 5*63 6b 6b 7f 36
+36 6*0 c3 c3 66 3c 18 18
+3c 66 c3 c3 6*0 c3 c3 c3
+66 3c 4*18 3c 6*0 7f 63 43
+6 c 18 30 61 63 7f 6*0
+3c 8*30 3c 6*0 80 c0 e0 70
+38 1c e 7 3 1 6*0 3c
+8*c 3c 4*0 8 1c 36 63 24*0
+ff 0 0 0 18 18 c 18*0
+3c 46 6 3e 66 66 3b 6*0
+70 30 30 3c 36 4*33 6e 9*0
+3e 63 60 60 60 63 3e 6*0
+e 6 6 1e 36 4*66 3b 9*0
+3e 63 63 7e 60 63 3e 6*0
+1c 36 32 30 7c 4*30 78 9*0
+3b 4*66 3e 6 66 3c 4*0 70
+30 30 36 3b 4*33 73 6*0 c
+c 0 1c 5*c 1e 6*0 6 6
+0 e 5*6 66 66 3c 4*0 70
+30 30 33 33 36 3c 36 33
+73 6*0 1c 8*c 1e 9*0 6e 7f
+5*6b 9*0 6e 6*33 9*0 3e 5*63 3e
+9*0 6e 4*33 3e 30 30 78 7*0
+3b 4*66 3e 6 6 f 7*0 6e
+3b 33 30 30 30 78 9*0 3e
+63 38 e 3 63 3e 6*0 8
+18 18 7e 4*18 1b e 9*0 6*66
+3b 9*0 63 63 36 36 1c 1c
+8 9*0 63 63 63 6b 6b 7f
+36 9*0 63 36 1c 1c 1c 36
+63 9*0 5*63 3f 3 6 3c 7*0
+7f 66 c 18 30 63 7f 6*0
+e 18 18 18 70 4*18 e 6*0
+5*18 0 5*18 5*0 70 18 18 18
+e 4*18 70 6*0 3b 6e 13*0 70
+d8 d8 70
+</a>
+      <a name="Select" val="high"/>
+    </comp>
+    <comp lib="4" loc="(330,1070)" name="Adder">
+      <a name="width" val="11"/>
+    </comp>
+    <comp lib="4" loc="(330,480)" name="Adder">
+      <a name="width" val="11"/>
+    </comp>
+    <comp lib="0" loc="(500,80)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row5"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="7" loc="(111,154)" name="Text">
+      <a name="text" val="ASCII??"/>
+      <a name="font" val="SansSerif plain 12"/>
+    </comp>
+    <comp lib="0" loc="(310,200)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row16"/>
+      <a name="labelloc" val="west"/>
+    </comp>
+    <comp lib="0" loc="(660,170)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row15"/>
+      <a name="labelloc" val="west"/>
+    </comp>
+    <comp lib="0" loc="(50,390)" name="Tunnel">
+      <a name="label" val="CodeErr"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(110,100)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="7"/>
+      <a name="label" val="Code"/>
+    </comp>
+    <comp lib="0" loc="(680,140)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row12"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="0" loc="(190,600)" name="Constant">
+      <a name="width" val="11"/>
+      <a name="value" val="0x2"/>
+    </comp>
+    <comp lib="0" loc="(500,200)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="label" val="CodeErr"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="0" loc="(1150,690)" name="Constant">
+      <a name="width" val="11"/>
+      <a name="value" val="0xb"/>
+    </comp>
+    <comp lib="0" loc="(880,1030)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row7"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(880,680)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row4"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(780,100)" name="Tunnel">
+      <a name="width" val="8"/>
+      <a name="label" val="row7"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="0" loc="(1160,920)" name="Constant">
+      <a name="width" val="11"/>
+      <a name="value" val="0xd"/>
+    </comp>
+    <comp lib="0" loc="(490,50)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row2"/>
+      <a name="labelloc" val="west"/>
+    </comp>
+    <comp lib="5" loc="(1550,800)" name="ROM">
+      <a name="addrWidth" val="11"/>
+      <a name="contents">addr/data: 11 8
+18*0 18 3c 3c 3c 18 18 18
+0 18 18 5*0 63 63 63 22
+14*0 36 36 7f 36 36 36 7f
+36 36 4*0 c c 3e 63 61
+60 3e 3 3 43 63 3e c
+c 7*0 61 63 6 c 18 33
+63 7*0 1c 36 36 1c 3b 6e
+66 66 3b 5*0 30 30 30 60
+13*0 c 18 18 4*30 18 18 c
+6*0 18 c c 4*6 c c 18
+8*0 42 66 3c ff 3c 66 42
+9*0 18 18 18 ff 18 18 18
+15*0 18 18 18 30 9*0 ff 18*0
+18 18 6*0 1 3 7 e 1c
+38 70 e0 c0 80 6*0 3e 63
+63 63 6b 6b 63 63 63 3e
+6*0 c 1c 3c 6*c 3f 6*0 3e
+63 3 6 c 18 30 61 63
+7f 6*0 3e 63 3 3 1e 3
+3 3 63 3e 6*0 6 e 1e
+36 66 66 7f 6 6 f 6*0
+7f 60 60 60 7e 3 3 63
+73 3e 6*0 1c 30 60 60 7e
+4*63 3e 6*0 7f 63 3 6 6
+c c 18 18 18 6*0 3e 63
+63 63 3e 4*63 3e 6*0 3e 4*63
+3f 3 3 6 3c 9*0 18 18
+0 0 0 18 18 9*0 18 18
+0 0 0 18 18 18 30 5*0
+6 c 18 30 60 30 18 c
+6 10*0 7e 0 0 7e 9*0 60
+30 18 c 6 c 18 30 60
+6*0 3e 63 63 6 c c c
+0 c c 6*0 3e 63 63 6f
+6b 6b 6e 60 60 3e 6*0 8
+1c 36 63 63 63 7f 63 63
+63 6*0 7e 33 33 33 3e 4*33
+7e 6*0 1e 33 61 4*60 61 33
+1e 6*0 7c 36 6*33 36 7c 6*0
+7f 33 31 34 3c 34 30 31
+33 7f 6*0 7f 33 31 34 3c
+34 30 30 30 78 6*0 1e 33
+61 60 60 6f 63 63 37 1d
+6*0 4*63 7f 5*63 6*0 3c 8*18 3c
+6*0 f 6*6 66 66 3c 6*0 73
+33 36 36 3c 36 36 33 33
+73 6*0 78 6*30 31 33 7f 6*0
+63 77 7f 6b 6*63 6*0 63 63
+73 7b 7f 6f 67 63 63 63
+6*0 1c 36 6*63 36 1c 6*0 7e
+33 33 33 3e 4*30 78 6*0 3e
+6*63 6b 6f 3e 6 7 4*0 7e
+33 33 33 3e 36 36 33 33
+73 6*0 3e 63 63 30 1c 6
+3 63 63 3e 6*0 ff db 99
+6*18 3c 6*0 9*63 3e 6*0 7*63 36
+1c 8 6*0 5*63 6b 6b 7f 36
+36 6*0 c3 c3 66 3c 18 18
+3c 66 c3 c3 6*0 c3 c3 c3
+66 3c 4*18 3c 6*0 7f 63 43
+6 c 18 30 61 63 7f 6*0
+3c 8*30 3c 6*0 80 c0 e0 70
+38 1c e 7 3 1 6*0 3c
+8*c 3c 4*0 8 1c 36 63 24*0
+ff 0 0 0 18 18 c 18*0
+3c 46 6 3e 66 66 3b 6*0
+70 30 30 3c 36 4*33 6e 9*0
+3e 63 60 60 60 63 3e 6*0
+e 6 6 1e 36 4*66 3b 9*0
+3e 63 63 7e 60 63 3e 6*0
+1c 36 32 30 7c 4*30 78 9*0
+3b 4*66 3e 6 66 3c 4*0 70
+30 30 36 3b 4*33 73 6*0 c
+c 0 1c 5*c 1e 6*0 6 6
+0 e 5*6 66 66 3c 4*0 70
+30 30 33 33 36 3c 36 33
+73 6*0 1c 8*c 1e 9*0 6e 7f
+5*6b 9*0 6e 6*33 9*0 3e 5*63 3e
+9*0 6e 4*33 3e 30 30 78 7*0
+3b 4*66 3e 6 6 f 7*0 6e
+3b 33 30 30 30 78 9*0 3e
+63 38 e 3 63 3e 6*0 8
+18 18 7e 4*18 1b e 9*0 6*66
+3b 9*0 63 63 36 36 1c 1c
+8 9*0 63 63 63 6b 6b 7f
+36 9*0 63 36 1c 1c 1c 36
+63 9*0 5*63 3f 3 6 3c 7*0
+7f 66 c 18 30 63 7f 6*0
+e 18 18 18 70 4*18 e 6*0
+5*18 0 5*18 5*0 70 18 18 18
+e 4*18 70 6*0 3b 6e 13*0 70
+d8 d8 70
+</a>
+      <a name="Select" val="high"/>
+    </comp>
+    <comp lib="0" loc="(310,140)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row10"/>
+      <a name="labelloc" val="west"/>
+    </comp>
+    <comp lib="4" loc="(1280,800)" name="Adder">
+      <a name="width" val="11"/>
+    </comp>
+    <comp lib="0" loc="(100,360)" name="Constant">
+      <a name="width" val="7"/>
+      <a name="value" val="0x20"/>
+    </comp>
+    <comp lib="0" loc="(810,190)" name="Tunnel">
+      <a name="width" val="8"/>
+      <a name="label" val="row16"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="4" loc="(1280,680)" name="Adder">
+      <a name="width" val="11"/>
+    </comp>
+    <comp lib="0" loc="(190,950)" name="Constant">
+      <a name="width" val="11"/>
+      <a name="value" val="0x5"/>
+    </comp>
+    <comp lib="0" loc="(650,80)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row6"/>
+      <a name="labelloc" val="west"/>
+    </comp>
+    <comp lib="0" loc="(230,310)" name="Constant">
+      <a name="width" val="4"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="5" loc="(1550,560)" name="ROM">
+      <a name="addrWidth" val="11"/>
+      <a name="contents">addr/data: 11 8
+18*0 18 3c 3c 3c 18 18 18
+0 18 18 5*0 63 63 63 22
+14*0 36 36 7f 36 36 36 7f
+36 36 4*0 c c 3e 63 61
+60 3e 3 3 43 63 3e c
+c 7*0 61 63 6 c 18 33
+63 7*0 1c 36 36 1c 3b 6e
+66 66 3b 5*0 30 30 30 60
+13*0 c 18 18 4*30 18 18 c
+6*0 18 c c 4*6 c c 18
+8*0 42 66 3c ff 3c 66 42
+9*0 18 18 18 ff 18 18 18
+15*0 18 18 18 30 9*0 ff 18*0
+18 18 6*0 1 3 7 e 1c
+38 70 e0 c0 80 6*0 3e 63
+63 63 6b 6b 63 63 63 3e
+6*0 c 1c 3c 6*c 3f 6*0 3e
+63 3 6 c 18 30 61 63
+7f 6*0 3e 63 3 3 1e 3
+3 3 63 3e 6*0 6 e 1e
+36 66 66 7f 6 6 f 6*0
+7f 60 60 60 7e 3 3 63
+73 3e 6*0 1c 30 60 60 7e
+4*63 3e 6*0 7f 63 3 6 6
+c c 18 18 18 6*0 3e 63
+63 63 3e 4*63 3e 6*0 3e 4*63
+3f 3 3 6 3c 9*0 18 18
+0 0 0 18 18 9*0 18 18
+0 0 0 18 18 18 30 5*0
+6 c 18 30 60 30 18 c
+6 10*0 7e 0 0 7e 9*0 60
+30 18 c 6 c 18 30 60
+6*0 3e 63 63 6 c c c
+0 c c 6*0 3e 63 63 6f
+6b 6b 6e 60 60 3e 6*0 8
+1c 36 63 63 63 7f 63 63
+63 6*0 7e 33 33 33 3e 4*33
+7e 6*0 1e 33 61 4*60 61 33
+1e 6*0 7c 36 6*33 36 7c 6*0
+7f 33 31 34 3c 34 30 31
+33 7f 6*0 7f 33 31 34 3c
+34 30 30 30 78 6*0 1e 33
+61 60 60 6f 63 63 37 1d
+6*0 4*63 7f 5*63 6*0 3c 8*18 3c
+6*0 f 6*6 66 66 3c 6*0 73
+33 36 36 3c 36 36 33 33
+73 6*0 78 6*30 31 33 7f 6*0
+63 77 7f 6b 6*63 6*0 63 63
+73 7b 7f 6f 67 63 63 63
+6*0 1c 36 6*63 36 1c 6*0 7e
+33 33 33 3e 4*30 78 6*0 3e
+6*63 6b 6f 3e 6 7 4*0 7e
+33 33 33 3e 36 36 33 33
+73 6*0 3e 63 63 30 1c 6
+3 63 63 3e 6*0 ff db 99
+6*18 3c 6*0 9*63 3e 6*0 7*63 36
+1c 8 6*0 5*63 6b 6b 7f 36
+36 6*0 c3 c3 66 3c 18 18
+3c 66 c3 c3 6*0 c3 c3 c3
+66 3c 4*18 3c 6*0 7f 63 43
+6 c 18 30 61 63 7f 6*0
+3c 8*30 3c 6*0 80 c0 e0 70
+38 1c e 7 3 1 6*0 3c
+8*c 3c 4*0 8 1c 36 63 24*0
+ff 0 0 0 18 18 c 18*0
+3c 46 6 3e 66 66 3b 6*0
+70 30 30 3c 36 4*33 6e 9*0
+3e 63 60 60 60 63 3e 6*0
+e 6 6 1e 36 4*66 3b 9*0
+3e 63 63 7e 60 63 3e 6*0
+1c 36 32 30 7c 4*30 78 9*0
+3b 4*66 3e 6 66 3c 4*0 70
+30 30 36 3b 4*33 73 6*0 c
+c 0 1c 5*c 1e 6*0 6 6
+0 e 5*6 66 66 3c 4*0 70
+30 30 33 33 36 3c 36 33
+73 6*0 1c 8*c 1e 9*0 6e 7f
+5*6b 9*0 6e 6*33 9*0 3e 5*63 3e
+9*0 6e 4*33 3e 30 30 78 7*0
+3b 4*66 3e 6 6 f 7*0 6e
+3b 33 30 30 30 78 9*0 3e
+63 38 e 3 63 3e 6*0 8
+18 18 7e 4*18 1b e 9*0 6*66
+3b 9*0 63 63 36 36 1c 1c
+8 9*0 63 63 63 6b 6b 7f
+36 9*0 63 36 1c 1c 1c 36
+63 9*0 5*63 3f 3 6 3c 7*0
+7f 66 c 18 30 63 7f 6*0
+e 18 18 18 70 4*18 e 6*0
+5*18 0 5*18 5*0 70 18 18 18
+e 4*18 70 6*0 3b 6e 13*0 70
+d8 d8 70
+</a>
+      <a name="Select" val="high"/>
+    </comp>
+    <comp lib="0" loc="(880,1150)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row8"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="0" loc="(800,90)" name="Tunnel">
+      <a name="width" val="8"/>
+      <a name="label" val="row6"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="0" loc="(310,80)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row4"/>
+      <a name="labelloc" val="west"/>
+    </comp>
+    <comp lib="7" loc="(449,248)" name="Text">
+      <a name="text" val="????????????????????"/>
+      <a name="font" val="Dialog plain 12"/>
+    </comp>
+    <comp lib="6" loc="(830,40)" name="DotMatrix">
+      <a name="inputtype" val="row"/>
+      <a name="matrixcols" val="8"/>
+      <a name="matrixrows" val="16"/>
+    </comp>
+    <comp lib="0" loc="(800,50)" name="Tunnel">
+      <a name="width" val="8"/>
+      <a name="label" val="row2"/>
+      <a name="labelfont" val="Dialog plain 8"/>
+    </comp>
+    <comp lib="0" loc="(1650,680)" name="Tunnel">
+      <a name="facing" val="west"/>
+      <a name="width" val="8"/>
+      <a name="label" val="row12"/>
+      <a name="labelfont" val="Dialog plain 12"/>
+    </comp>
+  </circuit>
+</project>
